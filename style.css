@@ -45,13 +45,17 @@ color: black;
     padding: 0 15px;
     float: left;
     margin-left: 1%;
-    height: 230px;
-    width: 174px;
-    border: 5px solid black;
-    border-color: black;
+    height: 260px;
+    width: 204px;
+    /*border: 5px solid black;*/
+    /*border-color: black;*/
     background-image: url("../Basic-Portfolio/assets/images/ME.jpg");
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+.push-content-up {
+    height: 70px;
 }
 
 .page-footer {
